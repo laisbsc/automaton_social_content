@@ -20,7 +20,7 @@ ${youtube_link}
 
 It is tomorrow!
 
-Join us to find out ${talk_tile}.
+Join us to find out ${talk_name}.
 
 Tomorrow (Thursday) ${date} at 7pm UTC, #rstats!
 
@@ -29,7 +29,7 @@ ${youtube_link}
 ---
 ##Thursday I
 
-It is today! :sparkle Join us at ${youtube_link} to hear everything about ${talk_title}.
+It is today! :sparkle Join us at ${youtube_link} to hear everything about ${talk_name}.
 Curious, #rstats?
 Tune in at 7pm UTC (8pm CET).
 
@@ -39,7 +39,7 @@ We will wait for you there, #rstats!
 
 ## Thursday II
 
-In 30 minutes, join us to find out all about ${talk_title} with ${twitter_handle} from ${}.
+In 30 minutes, join us to find out all about ${talk_name} with ${twitter_handle} from ${affiliation_twitter}.
 
 We will wait for you there, #rstats!
 

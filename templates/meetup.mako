@@ -1,4 +1,4 @@
-stream: ${youtube}
+stream: ${youtube_link}
 speaker: ${speaker_name} ${website}
 title: ${talk_name}
 
