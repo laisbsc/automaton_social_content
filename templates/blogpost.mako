@@ -50,10 +50,10 @@ volunteer-run non-profit organisation and appreciate your contribution to contin
 ${description}
 
 ## Sponsor
-> This event is part of a series sponsored by [Jumping Rivers](https://www.jumpingrivers.com/). For more information,
-> check out the [JR and WhyR partnership announcement](https://www.jumpingrivers.com/blog/jumping-rivers-whyr-partnership/).
+> This event is part of a series sponsored by [Mr Duckling](https://www.ducklinduck.com/). For more information,
+> check out the [blogpost announcement](https://www.ducklingduck.com/blog/partnership-quack/).
 
 ### Contact
-[Jumping Rivers](https://www.jumpingrivers.com/)
-[Twitter](https://twitter.com/jumping_uk)
-[Linkedin](https://www.linkedin.com/company/jumping-rivers-ltd/)
+[Mr. Ducking](https://www.ducklingduck.com/)
+[Twitter](https://twitter.com/ducklingduch)
+[Linkedin](https://www.linkedin.com/company/ducklingduck/)

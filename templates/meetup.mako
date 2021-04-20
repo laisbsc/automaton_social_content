@@ -9,14 +9,11 @@ speaker's affiliations:
 - webinars http://whyr.pl/webinars/
 - subscribe http://whyr.pl/subscribe/
 - slack http://whyr.pl/slack/
-- meetup http://tiny.cc/WarsawRUG
 
-# Sponsors #JumpingRivers
+# Sponsors #DuckDucklings
 
-The event is kindly sponsored by Jumping Rivers.
+The event is kindly sponsored by Mr. Duckling.
 
-Jumping Rivers is an analytics company whose passion is data and machine learning.
-
-https://www.jumpingrivers.com/
-twitter: twitter.com/jumping_uk
-linkedin: https://www.linkedin.com/company/jumping-rivers-ltd/
+[Mr. Ducking](https://www.ducklingduck.com/)
+[Twitter](https://twitter.com/ducklingduch)
+[Linkedin](https://www.linkedin.com/company/ducklingduck/)
