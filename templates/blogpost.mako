@@ -50,7 +50,7 @@ volunteer-run non-profit organisation and appreciate your contribution to contin
 ${description}
 
 ## Sponsor
-> This event is part of a series sponsored by [Mr Ducklin](https://www.ducklinduck.com/). For more information,
+> This event is part of a series sponsored by [Mr Duckling](https://www.ducklinduck.com/). For more information,
 > check out the [blogpost announcement](https://www.ducklingduck.com/blog/partnership-quack/).
 
 ### Contact
